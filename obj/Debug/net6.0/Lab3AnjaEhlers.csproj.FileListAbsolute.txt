@@ -1,0 +1,15 @@
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\bin\Debug\net6.0\Lab3AnjaEhlers.exe
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\bin\Debug\net6.0\Lab3AnjaEhlers.deps.json
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\bin\Debug\net6.0\Lab3AnjaEhlers.runtimeconfig.json
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\bin\Debug\net6.0\Lab3AnjaEhlers.dll
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\bin\Debug\net6.0\Lab3AnjaEhlers.pdb
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.csproj.AssemblyReference.cache
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.AssemblyInfoInputs.cache
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.AssemblyInfo.cs
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.csproj.CoreCompileInputs.cache
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.dll
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\refint\Lab3AnjaEhlers.dll
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.pdb
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\Lab3AnjaEhlers.genruntimeconfig.cache
+C:\Users\bitty\source\repos\Lab3\Lab3AnjaEhlers\obj\Debug\net6.0\ref\Lab3AnjaEhlers.dll
